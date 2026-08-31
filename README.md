@@ -1,5 +1,11 @@
 # Publication Design System Specimen
 
+Website URL:
+https://hundryd.net/GIT337-1-Deliverable-Design-System-Specimen
+
+Github URL:
+https://github.com/Hundryd/GIT337-1-Deliverable-Design-System-Specimen
+
 This website has the core visual foundation for a small publication project. It includes the required six sections (S1–S6), both default and alternate themes, and supporting usage guidance and testing evidence. The placeholder copy is lorem ipsum for demonstration purposes.
 
 # File structure
@@ -14,3 +20,7 @@ This website has the core visual foundation for a small publication project. It 
 # Verification status
 
 The specimen has been built and checked in a browser preview to confirm the required theme and responsive behavior.
+
+# AI Disclosure
+
+Used for color scheme.
